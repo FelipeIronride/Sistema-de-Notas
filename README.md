@@ -1,4 +1,4 @@
-# 🥋 Sistema de Notas
+# Sistema de Notas
 
 Um sistema robusto de gestão escolar desenvolvido em Python, focado em **Validação de Dados** e **Persistência de Arquivos**.
 
@@ -22,3 +22,4 @@ Este código reflete minha evolução no aprendizado com **TDAH**, utilizando um
 ---
 
 Desenvolvido por Felipe - 2026
+
